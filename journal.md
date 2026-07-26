@@ -27,3 +27,10 @@ https://github.com/user-attachments/assets/07cebf9d-a340-4d11-95a2-737be1cb2900
 my phone 💔
 
 **Total time spent: 2 hr 53 mins**
+
+# July 26th: reading crossflight pinouts
+broke my phone's camera 💔 today was sunday so almost all the shops were closed so yea im going to samsung service centre tmr! but yea! yesterday i got the props to work!! so today i just finnised reading the crssflight pinouts and also seeked some help from claude about it and i just read and read it was LIKE REALLY REALLY **LONG** 
+<img width="637" height="229" alt="image" src="https://github.com/user-attachments/assets/5e894393-4a47-490f-8e04-0b4cf23a7d2b" />
+i didn't even read all the pages but yea! learned alot about the flight controller! 
+
+**Total time spent: 1 hr 10mins**
