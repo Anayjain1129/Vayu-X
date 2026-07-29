@@ -38,4 +38,7 @@ i didn't even read all the pages but yea! learned alot about the flight controll
 # July 29th: Making wiring Diagram 
 I made the wiring diagram and it was a bit hard cause i do not have a mouse and im travelling rn and yea i had to use my touchpad lol so yea!! i worked on that and then the BOM of the project! and now im gonna take a break and then work on the readme of the project! and then i think i'll be good to submit! 
 
+<img width="1920" height="1080" alt="wiring diagram" src="https://github.com/user-attachments/assets/8ddc0975-add2-4880-8af5-aaa8d840f72a" />
+
+
 **Total time spent: 1hr 27mins**
