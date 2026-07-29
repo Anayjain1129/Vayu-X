@@ -35,3 +35,4 @@ Broke my phone's Camera 💔and it's costing like 7k to get it repaired 💔
 
 # NOTE:-
 The funding for this project wasn't from horizons shop! 
+There are some more wiring but those doesn't seem to be necessary to be in the diagram! i'll upload the pictures of the actual drone physically when i get back home from horizons!
