@@ -1,6 +1,10 @@
 # Vayu-X
 a quadcopter made from scratch!! this drone uses a F450 drone frame and uses mission planner for the firmware
 
+# Wiring Diagram
+<img width="1920" height="1080" alt="wiring diagram" src="https://github.com/user-attachments/assets/3309df46-fb2e-42af-8401-64c7c86a0cf4" />
+
+
 # Features:-
 - Uses Crossflight flight controller
 - 1800 Kv BLDC Motors
