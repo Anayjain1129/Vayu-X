@@ -34,3 +34,8 @@ broke my phone's camera 💔 today was sunday so almost all the shops were close
 i didn't even read all the pages but yea! learned alot about the flight controller! 
 
 **Total time spent: 1 hr 10mins**
+
+# July 29th: Making wiring Diagram 
+I made the wiring diagram and it was a bit hard cause i do not have a mouse and im travelling rn and yea i had to use my touchpad lol so yea!! i worked on that and then the BOM of the project! and now im gonna take a break and then work on the readme of the project! and then i think i'll be good to submit! 
+
+**Total time spent: 1hr 27mins**
