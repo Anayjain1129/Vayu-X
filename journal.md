@@ -42,3 +42,8 @@ I made the wiring diagram and it was a bit hard cause i do not have a mouse and 
 
 
 **Total time spent: 1hr 27mins**
+
+# July 30th: Submitting!
+OKIIESS so now im at my uncle's home and it's currently like 3.36am and i'm now gonna grind and complete my remaining hours!! i just worked on the repo and the readme! and now we are good to submit! 
+
+**Total time spent: 22min**
